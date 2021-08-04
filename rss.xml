@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[AutoCongrats App Blog]]></title><description><![CDATA[Make happy your contacts!]]></description><link>https://Ranta-cyber.github.io/devblog</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 04 Aug 2021 09:55:55 GMT</lastBuildDate><item><title><![CDATA[Second Post]]></title><description><![CDATA[tämä on toinen post  lisätietoja..]]></description><link>https://Ranta-cyber.github.io/devblog/another-new-post/</link><guid isPermaLink="false">https://Ranta-cyber.github.io/devblog/another-new-post/</guid><pubDate>Mon, 02 Aug 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;tämä on toinen post&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[AutoCongrats App Blog]]></title><description><![CDATA[Make happy your contacts!]]></description><link>https://Ranta-cyber.github.io/devblog</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 04 Aug 2021 10:07:18 GMT</lastBuildDate><item><title><![CDATA[Second Post]]></title><description><![CDATA[tämä on toinen post  lisätietoja..]]></description><link>https://Ranta-cyber.github.io/devblog/another-new-post/</link><guid isPermaLink="false">https://Ranta-cyber.github.io/devblog/another-new-post/</guid><pubDate>Mon, 02 Aug 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;tämä on toinen post&lt;/p&gt;
 &lt;p&gt;
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
@@ -36,21 +36,22 @@
 &lt;p&gt;
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 15px -30px !important max-width: 197px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; margin: 15px -30px !important max-width: 676px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 216%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAArABQDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQBAwYFAv/EABcBAQEBAQAAAAAAAAAAAAAAAAACAQP/2gAMAwEAAhADEAAAAW7VvEV1ygua6lETUC4yI4Md80xmQ//EACAQAQACAQMFAQAAAAAAAAAAAAIBAwQAEiEQExQzNEH/2gAIAQEAAQUCdr8qxSSOTeZ79kPbjemy0hzl1nQUM5PORYNsYfzoCbZqqnQ2A/nT/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERMRD/2gAIAQMBAT8BUWj3tKf/xAAdEQABAwUBAAAAAAAAAAAAAAAAAhETAQMQEiEx/9oACAECAQE/AbjqVTXwZuZiIj//xAAiEAABBAECBwAAAAAAAAAAAAABABESMQIDIRAgIlFhcYH/2gAIAQEABj8CGmKUgeEgCtx8VN4W8tgqyT40o92WTU7IKXTVumMW9qOJHJ//xAAeEAACAgICAwAAAAAAAAAAAAAAAREhMUFh8BBRsf/aAAgBAQABPyGdSW9FJEe0M0NtPlClhqGlQrZiZaLJivd2H3NowQDyX2xVJbmE4amTZ9JRrPYE6RA56ki0KXJr5//aAAwDAQACAAMAAAAQ4O5Bpw//xAAbEQEAAgIDAAAAAAAAAAAAAAABABEgITFBYf/aAAgBAwEBPxB1jpfOodqhxhf/xAAbEQACAgMBAAAAAAAAAAAAAAABEQAhEEFRcf/aAAgBAgEBPxBPogB9dmPcWoSScIdxez//xAAfEAEAAwEAAgIDAAAAAAAAAAABABEhMVGRQWFxgbH/2gAIAQEAAT8QOuoN7KVffiPwKllgX+9jt1/AwS67WCo5NSjcz5OxXSHIGzfuGwVBGWvfMCd6cI1vzHYHdXLnIwfUskQlXXcnn3v9SyVKOmxzLi3rSCNesBw8tGdftjwyhYhmHqOvD1P/2Q==&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 172%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAiABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIEBQH/xAAXAQEBAQEAAAAAAAAAAAAAAAABAAIE/9oADAMBAAIQAxAAAAG5OUcNsbMvP2YVaCYHDrwEf//EAB4QAAMAAgEFAAAAAAAAAAAAAAECAwARBBASExRB/9oACAEBAAEFAno3tO+lQ7Wku6hhvJgqnIJ81C4yB3FlmamUWCFET50//8QAFxEBAAMAAAAAAAAAAAAAAAAAAQARIP/aAAgBAwEBPwEajn//xAAZEQADAQEBAAAAAAAAAAAAAAAAARECEFH/2gAIAQIBAT8B2nrS8JCE7//EAB8QAQACAgEFAQAAAAAAAAAAAAEAAhEhEiAxcpGS4f/aAAgBAQAGPwLhnFZkYM/JpSA7Y1Jt7alVnPkfUBtryhUue+j/xAAdEAADAAICAwAAAAAAAAAAAAAAAREhMUFhEFHx/9oACAEBAAE/IZXa94H0CdJ47eTNJtYv0PionhtUah2FwuuciZ0y0Y7MGzb5N+wsLDolgocPP//aAAwDAQACAAMAAAAQcwKw8/8A/8QAGxEAAgEFAAAAAAAAAAAAAAAAAREAECExQfD/2gAIAQMBAT8QAoIb7cyKjtHX/8QAGxEBAAIDAQEAAAAAAAAAAAAAAQARITFREGH/2gAIAQIBAT8QXBoAP3O8dgMBupe9S3Ief//EAB0QAQEAAgMBAQEAAAAAAAAAAAERACExQXFRkaH/2gAIAQEAAT8QFdAIA22n7hKUiE39lMB1NbEXeOVsEheNa+sVV+aR/ccuFqI7fXF6A4CApkfUqaDzz24sKJVfcqSoSAAk15lmd6iq9uTiXsuPF0LiceY85//Z&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Space&quot;
         title=&quot;&quot;
-        src=&quot;/blog/static/00e13a151d37d04d90d450027f01381f/0905e/kuva1.jpg&quot;
-        srcset=&quot;/blog/static/00e13a151d37d04d90d450027f01381f/e52aa/kuva1.jpg 175w,
-/blog/static/00e13a151d37d04d90d450027f01381f/0905e/kuva1.jpg 197w&quot;
-        sizes=&quot;(max-width: 197px) 100vw, 197px&quot;
+        src=&quot;/blog/static/56f4360861434ef2785a8a628b86c488/afcad/kuva1.jpg&quot;
+        srcset=&quot;/blog/static/56f4360861434ef2785a8a628b86c488/e52aa/kuva1.jpg 175w,
+/blog/static/56f4360861434ef2785a8a628b86c488/70ebb/kuva1.jpg 350w,
+/blog/static/56f4360861434ef2785a8a628b86c488/afcad/kuva1.jpg 676w&quot;
+        sizes=&quot;(max-width: 676px) 100vw, 676px&quot;
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
@@ -61,6 +62,29 @@
 &lt;p&gt;You can set default content of the congratulate message, however you can modify message before actually sending it. Set XXXX characters to place where you want person’s name.&lt;/p&gt;
 &lt;p&gt;You can set WhatsApp as your primary message channel. If your friend doesn’t have WhatsApp then message will be sent as SMS.&lt;/p&gt;
 &lt;h3&gt;Bold ja isolla tekstiä&lt;/h3&gt;
+&lt;p&gt;
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 15px -30px !important max-width: 380px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 135.42857142857144%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBBAUC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIQAxAAAAG901y54sG66G2cgaWv/8QAHxAAAQQBBQEAAAAAAAAAAAAAAQACAzMRBBITIiMx/9oACAEBAAEFAskrstwaYwePDsz2srH3UWx1hTD0/8QAFhEAAwAAAAAAAAAAAAAAAAAAAREg/9oACAEDAQE/AWY//8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAGxAAAgIDAQAAAAAAAAAAAAAAAAECIRARMjH/2gAIAQEABj8C5kcSL2iOj2hkLwxYZ//EAB8QAQACAQMFAAAAAAAAAAAAAAEAESEQMVFBYYGRsf/aAAgBAQABPyEOIhoVgDdRmZqKzCyyL4D5L8StuZtS3qhK+0AQmX//2gAMAwEAAgADAAAAEKM2PP/EABoRAAICAwAAAAAAAAAAAAAAAAABMbFRYdH/2gAIAQMBAT8Q2VwTeaGKD//EABURAQEAAAAAAAAAAAAAAAAAAAEg/9oACAECAQE/EFj/xAAfEAEAAwACAwADAAAAAAAAAAABABEhMUFRcYFhscH/2gAIAQEAAT8QUo9GzSV3+SRjrbTvHMaojl51iGBZgcjN1vZ8QulAS9Pb1EgGXyTydV+hFVsP6hlhsYE2jv8AE//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Space&quot;
+        title=&quot;&quot;
+        src=&quot;/blog/static/135ee00c896cf4196a40e3b7b5988540/0246a/kellokuva.jpg&quot;
+        srcset=&quot;/blog/static/135ee00c896cf4196a40e3b7b5988540/e52aa/kellokuva.jpg 175w,
+/blog/static/135ee00c896cf4196a40e3b7b5988540/70ebb/kellokuva.jpg 350w,
+/blog/static/135ee00c896cf4196a40e3b7b5988540/0246a/kellokuva.jpg 380w&quot;
+        sizes=&quot;(max-width: 380px) 100vw, 380px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Korostettua tekstiä&lt;/p&gt;
 &lt;/blockquote&gt;
