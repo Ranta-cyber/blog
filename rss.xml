@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[AutoCongrats App Blog]]></title><description><![CDATA[Make happy your contacts!]]></description><link>https://Ranta-cyber.github.io/devblog</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 04 Aug 2021 09:09:13 GMT</lastBuildDate><item><title><![CDATA[Second Post]]></title><description><![CDATA[tämä on toinen post  lisätietoja..]]></description><link>https://Ranta-cyber.github.io/devblog/another-new-post/</link><guid isPermaLink="false">https://Ranta-cyber.github.io/devblog/another-new-post/</guid><pubDate>Mon, 02 Aug 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;tämä on toinen post&lt;/p&gt;
+&lt;p&gt;
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 15px -30px !important max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 51.42857142857144%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAQX/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/2gAMAwEAAhADEAAAAaV5jhYVFv8A/8QAHBAAAgEFAQAAAAAAAAAAAAAAAAIBAwQRFDJB/9oACAEBAAEFAttx7l2Gms0t15iD/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAEREv/aAAgBAwEBPwGmIf/EABcRAQEBAQAAAAAAAAAAAAAAAAEAERL/2gAIAQIBAT8BFy6b/8QAHhAAAgAGAwAAAAAAAAAAAAAAAAEQERIjMXEzkqH/2gAIAQEABj8C4l2LaS2Tr9HqGD//xAAcEAACAgIDAAAAAAAAAAAAAAAAASExEXFBUWH/2gAIAQEAAT8hfUbCzhrkyuOsBnoCiHg2WjP/2gAMAwEAAgADAAAAEJjP/8QAFhEBAQEAAAAAAAAAAAAAAAAAAREQ/9oACAEDAQE/EJWYf//EABcRAQADAAAAAAAAAAAAAAAAAAABEWH/2gAIAQIBAT8QkWaP/8QAHRABAAMAAQUAAAAAAAAAAAAAAQARITFBYZGxwf/aAAgBAQABPxAFKHtHyYeHaUPqpaxVAhjwRAq9DeMmRxnGUqhXKXP/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Train Tracks&quot;
+        title=&quot;&quot;
+        src=&quot;/blog/static/a6bff11fd84ef0a7e78d1abedda1165c/29d31/traintrack.jpg&quot;
+        srcset=&quot;/blog/static/a6bff11fd84ef0a7e78d1abedda1165c/e52aa/traintrack.jpg 175w,
+/blog/static/a6bff11fd84ef0a7e78d1abedda1165c/70ebb/traintrack.jpg 350w,
+/blog/static/a6bff11fd84ef0a7e78d1abedda1165c/29d31/traintrack.jpg 700w,
+/blog/static/a6bff11fd84ef0a7e78d1abedda1165c/4b190/traintrack.jpg 800w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  &lt;/p&gt;
+&lt;p&gt;lisätietoja..&lt;/p&gt;</content:encoded></item><item><title><![CDATA[AutoCongrats]]></title><description><![CDATA[Tämä on Autocongrats]]></description><link>https://Ranta-cyber.github.io/devblog/hello-world/</link><guid isPermaLink="false">https://Ranta-cyber.github.io/devblog/hello-world/</guid><pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Tämä on Autocongrats&lt;/p&gt;
+&lt;!-- end --&gt;
+&lt;p&gt;Lisätietoja…&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;huomio teksti&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;lisää infoa&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Welcome to the blog!]]></title><description><![CDATA[Welcome to the AutoCongrats App blog. You can see what the App offer to you!]]></description><link>https://Ranta-cyber.github.io/devblog/welcome-to-the-blog/</link><guid isPermaLink="false">https://Ranta-cyber.github.io/devblog/welcome-to-the-blog/</guid><pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Welcome to the AutoCongrats App blog. You can see what the App offer to you!&lt;/p&gt;
+&lt;!-- end --&gt;
+&lt;h2&gt;AutoCongrats helps you to congrats your contacts&lt;/h2&gt;
+&lt;p&gt;You can congratulate your friends having a name day or birthday in a care free way. &lt;/p&gt;
+&lt;p&gt;Application checks from your contacts if any persons is having a name day or birthday. &lt;/p&gt;
+&lt;p&gt;You can set application to remind you and form congratulatory message for you, then you just need to push the button to send the message.&lt;/p&gt;
+&lt;p&gt;
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 15px -30px !important max-width: 603px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 216%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAArABQDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAMCBAYFAf/EABcBAQEBAQAAAAAAAAAAAAAAAAACAQP/2gAMAwEAAhADEAAAAbbay4rsCS5UqpQNSJGQjwvO+aYzIf/EACIQAAICAAQHAAAAAAAAAAAAAAIDAQQAEhMUEBEiMjM0Qf/aAAgBAQABBQI2nu2HIiPa8Z12QfKv4WNEGbtY4CYIbHVZYGWK3rkK5bpJnAZAH5w//8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERMRD/2gAIAQMBAT8BUWj3tKf/xAAcEQABAwUAAAAAAAAAAAAAAAAAAhETARASITH/2gAIAQIBAT8BW6l0x4M2rxER/8QAIhAAAQMDAwUAAAAAAAAAAAAAAQACERIhMQNRYRAgIjKR/9oACAEBAAY/AhpD1VQPSoAq7bbIWjhXqsFhyBGFTvCMYmE1VeGMygDRA5QaHN+9n//EACEQAQACAgEDBQAAAAAAAAAAAAEAESExURBhcZGhseHx/9oACAEBAAE/IbQBs47TAhkuyNQqLyQGa4pNahzchySep/DMeVTRRqNB3Z39zwkpm3hYuC7z2s2qXZl8xCFJg/URSBxDr1//2gAMAwEAAgADAAAAELPicgMP/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAERMRBBYf/aAAgBAwEBPxB4U8N80WCoeb//xAAbEQACAgMBAAAAAAAAAAAAAAABEQAhEEFRcf/aAAgBAgEBPxBcogB9dmNcWoSScIdxOz//xAAeEAEAAwACAwEBAAAAAAAAAAABABEhMVFBYZFxsf/aAAgBAQABPxB1AhiVNcwJhhoq+fOxFaPQy3W7AtVSvU0ZC1p52eWuwI6d7K1QJQV7fPMffEYDQ9xzQyvwZChoEH4S+y6S7Q5ndvX9YlYAG7YSs9I8CiCKvlgUB0AV75ZoKKFrIh0fI0tofJ//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Space&quot;
+        title=&quot;&quot;
+        src=&quot;/blog/static/4f63c4c43d0655fc5ff5cd0107537594/48d5f/kuva1.jpg&quot;
+        srcset=&quot;/blog/static/4f63c4c43d0655fc5ff5cd0107537594/e52aa/kuva1.jpg 175w,
+/blog/static/4f63c4c43d0655fc5ff5cd0107537594/70ebb/kuva1.jpg 350w,
+/blog/static/4f63c4c43d0655fc5ff5cd0107537594/48d5f/kuva1.jpg 603w&quot;
+        sizes=&quot;(max-width: 603px) 100vw, 603px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  &lt;/p&gt;
+&lt;p&gt;Chosen language affects how application can find persons having a name day. Also applications language is changed based on that.&lt;/p&gt;
+&lt;p&gt;You can choose if you want to see persons having a name day or/and birthday. &lt;/p&gt;
+&lt;p&gt;If you allow push notifications, you will receive a daily push notification as reminder on chosen time. &lt;/p&gt;
+&lt;p&gt;You can set default content of the congratulate message, however you can modify message before actually sending it. Set XXXX characters to place where you want person’s name.&lt;/p&gt;
+&lt;p&gt;You can set WhatsApp as your primary message channel. If your friend doesn’t have WhatsApp then message will be sent as SMS.&lt;/p&gt;
+&lt;h3&gt;Bold ja isolla tekstiä&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Korostettua tekstiä&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Morbi et libero id metus tempor imperdiet eget non mi. Mauris pulvinar quis enim at placerat. Vestibulum vitae dapibus lectus, ut elementum est.&lt;/p&gt;
+&lt;h3&gt;Pellentesque facilisis venenatis mi, sit amet molestie nisl ornare et&lt;/h3&gt;
+&lt;h4&gt;Sed ac orci a dolor venenatis vulputate&lt;/h4&gt;
+&lt;h5&gt;Nulla nec dui vulputate, semper orci in, sagittis dolor&lt;/h5&gt;
+&lt;h6&gt;ras aliquet ipsum ut enim pellentesque, id varius quam placerat&lt;/h6&gt;</content:encoded></item></channel></rss>
