@@ -1,94 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[AutoCongrats App Blog]]></title><description><![CDATA[Make happy your contacts!]]></description><link>https://Ranta-cyber.github.io/devblog</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 04 Aug 2021 10:07:18 GMT</lastBuildDate><item><title><![CDATA[Second Post]]></title><description><![CDATA[tämä on toinen post  lisätietoja..]]></description><link>https://Ranta-cyber.github.io/devblog/another-new-post/</link><guid isPermaLink="false">https://Ranta-cyber.github.io/devblog/another-new-post/</guid><pubDate>Mon, 02 Aug 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;tämä on toinen post&lt;/p&gt;
-&lt;p&gt;
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 15px -30px !important max-width: 700px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 51.42857142857144%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAQX/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/2gAMAwEAAhADEAAAAaV5jhYVFv8A/8QAHBAAAgEFAQAAAAAAAAAAAAAAAAIBAwQRFDJB/9oACAEBAAEFAttx7l2Gms0t15iD/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAEREv/aAAgBAwEBPwGmIf/EABcRAQEBAQAAAAAAAAAAAAAAAAEAERL/2gAIAQIBAT8BFy6b/8QAHhAAAgAGAwAAAAAAAAAAAAAAAAEQERIjMXEzkqH/2gAIAQEABj8C4l2LaS2Tr9HqGD//xAAcEAACAgIDAAAAAAAAAAAAAAAAASExEXFBUWH/2gAIAQEAAT8hfUbCzhrkyuOsBnoCiHg2WjP/2gAMAwEAAgADAAAAEJjP/8QAFhEBAQEAAAAAAAAAAAAAAAAAAREQ/9oACAEDAQE/EJWYf//EABcRAQADAAAAAAAAAAAAAAAAAAABEWH/2gAIAQIBAT8QkWaP/8QAHRABAAMAAQUAAAAAAAAAAAAAAQARITFBYZGxwf/aAAgBAQABPxAFKHtHyYeHaUPqpaxVAhjwRAq9DeMmRxnGUqhXKXP/2Q==&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;Train Tracks&quot;
-        title=&quot;&quot;
-        src=&quot;/blog/static/a6bff11fd84ef0a7e78d1abedda1165c/29d31/traintrack.jpg&quot;
-        srcset=&quot;/blog/static/a6bff11fd84ef0a7e78d1abedda1165c/e52aa/traintrack.jpg 175w,
-/blog/static/a6bff11fd84ef0a7e78d1abedda1165c/70ebb/traintrack.jpg 350w,
-/blog/static/a6bff11fd84ef0a7e78d1abedda1165c/29d31/traintrack.jpg 700w,
-/blog/static/a6bff11fd84ef0a7e78d1abedda1165c/4b190/traintrack.jpg 800w&quot;
-        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  &lt;/p&gt;
-&lt;p&gt;lisätietoja..&lt;/p&gt;</content:encoded></item><item><title><![CDATA[AutoCongrats]]></title><description><![CDATA[Tämä on Autocongrats]]></description><link>https://Ranta-cyber.github.io/devblog/hello-world/</link><guid isPermaLink="false">https://Ranta-cyber.github.io/devblog/hello-world/</guid><pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Tämä on Autocongrats&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[AutoCongrats App Blog]]></title><description><![CDATA[Make happy your contacts!]]></description><link>https://Ranta-cyber.github.io/devblog</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 05 Aug 2021 06:25:38 GMT</lastBuildDate><item><title><![CDATA[Welcome to the blog!]]></title><description><![CDATA[Welcome to the AutoCongrats App blog. See what the App offer to you!]]></description><link>https://Ranta-cyber.github.io/devblog/welcome-to-the-blog/</link><guid isPermaLink="false">https://Ranta-cyber.github.io/devblog/welcome-to-the-blog/</guid><pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Welcome to the AutoCongrats App blog. See what the App offer to you!&lt;/p&gt;
 &lt;!-- end --&gt;
-&lt;p&gt;Lisätietoja…&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;huomio teksti&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;lisää infoa&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Welcome to the blog!]]></title><description><![CDATA[Welcome to the AutoCongrats App blog. You can see what the App offer to you!]]></description><link>https://Ranta-cyber.github.io/devblog/welcome-to-the-blog/</link><guid isPermaLink="false">https://Ranta-cyber.github.io/devblog/welcome-to-the-blog/</guid><pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Welcome to the AutoCongrats App blog. You can see what the App offer to you!&lt;/p&gt;
-&lt;!-- end --&gt;
-&lt;h2&gt;AutoCongrats helps you to congrats your contacts&lt;/h2&gt;
-&lt;p&gt;You can congratulate your friends having a name day or birthday in a care free way. &lt;/p&gt;
+&lt;p&gt;AutoCongrats helps you to congrats your contacts!&lt;/p&gt;
+&lt;h2&gt;You don’t need to worry about if you don’t remember some friends name day or birthday.&lt;/h2&gt;
 &lt;p&gt;Application checks from your contacts if any persons is having a name day or birthday. &lt;/p&gt;
-&lt;p&gt;You can set application to remind you and form congratulatory message for you, then you just need to click the icon with a tulip flower to send the message.&lt;/p&gt;
-&lt;p&gt;
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 15px -30px !important max-width: 676px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 172%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAiABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIEBQH/xAAXAQEBAQEAAAAAAAAAAAAAAAABAAIE/9oADAMBAAIQAxAAAAG5OUcNsbMvP2YVaCYHDrwEf//EAB4QAAMAAgEFAAAAAAAAAAAAAAECAwARBBASExRB/9oACAEBAAEFAno3tO+lQ7Wku6hhvJgqnIJ81C4yB3FlmamUWCFET50//8QAFxEBAAMAAAAAAAAAAAAAAAAAAQARIP/aAAgBAwEBPwEajn//xAAZEQADAQEBAAAAAAAAAAAAAAAAARECEFH/2gAIAQIBAT8B2nrS8JCE7//EAB8QAQACAgEFAQAAAAAAAAAAAAEAAhEhEiAxcpGS4f/aAAgBAQAGPwLhnFZkYM/JpSA7Y1Jt7alVnPkfUBtryhUue+j/xAAdEAADAAICAwAAAAAAAAAAAAAAAREhMUFhEFHx/9oACAEBAAE/IZXa94H0CdJ47eTNJtYv0PionhtUah2FwuuciZ0y0Y7MGzb5N+wsLDolgocPP//aAAwDAQACAAMAAAAQcwKw8/8A/8QAGxEAAgEFAAAAAAAAAAAAAAAAAREAECExQfD/2gAIAQMBAT8QAoIb7cyKjtHX/8QAGxEBAAIDAQEAAAAAAAAAAAAAAQARITFREGH/2gAIAQIBAT8QXBoAP3O8dgMBupe9S3Ief//EAB0QAQEAAgMBAQEAAAAAAAAAAAERACExQXFRkaH/2gAIAQEAAT8QFdAIA22n7hKUiE39lMB1NbEXeOVsEheNa+sVV+aR/ccuFqI7fXF6A4CApkfUqaDzz24sKJVfcqSoSAAk15lmd6iq9uTiXsuPF0LiceY85//Z&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;Space&quot;
-        title=&quot;&quot;
-        src=&quot;/blog/static/56f4360861434ef2785a8a628b86c488/afcad/kuva1.jpg&quot;
-        srcset=&quot;/blog/static/56f4360861434ef2785a8a628b86c488/e52aa/kuva1.jpg 175w,
-/blog/static/56f4360861434ef2785a8a628b86c488/70ebb/kuva1.jpg 350w,
-/blog/static/56f4360861434ef2785a8a628b86c488/afcad/kuva1.jpg 676w&quot;
-        sizes=&quot;(max-width: 676px) 100vw, 676px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  &lt;/p&gt;
-&lt;p&gt;Chosen language affects how application can find persons having a name day. Also applications language is changed based on that.&lt;/p&gt;
-&lt;p&gt;You can choose if you want to see persons having a name day or/and birthday. &lt;/p&gt;
-&lt;p&gt;If you allow push notifications, you will receive a daily push notification as reminder on chosen time. &lt;/p&gt;
-&lt;p&gt;You can set default content of the congratulate message, however you can modify message before actually sending it. Set XXXX characters to place where you want person’s name.&lt;/p&gt;
-&lt;p&gt;You can set WhatsApp as your primary message channel. If your friend doesn’t have WhatsApp then message will be sent as SMS.&lt;/p&gt;
-&lt;h3&gt;Bold ja isolla tekstiä&lt;/h3&gt;
-&lt;p&gt;
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 15px -30px !important max-width: 380px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 135.42857142857144%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBBAUC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIQAxAAAAG901y54sG66G2cgaWv/8QAHxAAAQQBBQEAAAAAAAAAAAAAAQACAzMRBBITIiMx/9oACAEBAAEFAskrstwaYwePDsz2srH3UWx1hTD0/8QAFhEAAwAAAAAAAAAAAAAAAAAAAREg/9oACAEDAQE/AWY//8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAGxAAAgIDAQAAAAAAAAAAAAAAAAECIRARMjH/2gAIAQEABj8C5kcSL2iOj2hkLwxYZ//EAB8QAQACAQMFAAAAAAAAAAAAAAEAESEQMVFBYYGRsf/aAAgBAQABPyEOIhoVgDdRmZqKzCyyL4D5L8StuZtS3qhK+0AQmX//2gAMAwEAAgADAAAAEKM2PP/EABoRAAICAwAAAAAAAAAAAAAAAAABMbFRYdH/2gAIAQMBAT8Q2VwTeaGKD//EABURAQEAAAAAAAAAAAAAAAAAAAEg/9oACAECAQE/EFj/xAAfEAEAAwACAwADAAAAAAAAAAABABEhMUFRcYFhscH/2gAIAQEAAT8QUo9GzSV3+SRjrbTvHMaojl51iGBZgcjN1vZ8QulAS9Pb1EgGXyTydV+hFVsP6hlhsYE2jv8AE//Z&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;Space&quot;
-        title=&quot;&quot;
-        src=&quot;/blog/static/135ee00c896cf4196a40e3b7b5988540/0246a/kellokuva.jpg&quot;
-        srcset=&quot;/blog/static/135ee00c896cf4196a40e3b7b5988540/e52aa/kellokuva.jpg 175w,
-/blog/static/135ee00c896cf4196a40e3b7b5988540/70ebb/kellokuva.jpg 350w,
-/blog/static/135ee00c896cf4196a40e3b7b5988540/0246a/kellokuva.jpg 380w&quot;
-        sizes=&quot;(max-width: 380px) 100vw, 380px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  &lt;/p&gt;
+&lt;p&gt;Congratulate your friends in a care free way. &lt;/p&gt;
+&lt;p&gt;The App show to you who’s name day or birthday for day go on.&lt;/p&gt;
+&lt;h2&gt;Just click tulip flower icon if you want congrats. You decided if you want to congrats.&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;./onnea.png&quot; alt=&quot;Space&quot;&gt;&lt;/p&gt;
+&lt;h2&gt;Setting up preferences&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;./asetukset1.png&quot; alt=&quot;Space&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Allowing push notifications, you will receive a daily push notification as reminder on chosen time.&lt;/p&gt;
+&lt;p&gt;Choosing language affects how application can find persons having a name day. Also applications language is changed based on that.&lt;/p&gt;
+&lt;p&gt;Set default content of the congratulate message, however you can modify message before actually sending it. &lt;/p&gt;
+&lt;p&gt;Use XXXX characters to place where you want person’s name.&lt;/p&gt;
+&lt;p&gt;Set WhatsApp as your primary message channel. If your friend doesn’t have WhatsApp then message will be sent as SMS.&lt;/p&gt;
+&lt;h2&gt;Use it as you want&lt;/h2&gt;
+&lt;p&gt;Maybe you just want to see what names have name days. Click on the red text TODAY NAMEDAYS&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;./todaynames.png&quot; alt=&quot;Space&quot;&gt;&lt;/p&gt;
+&lt;h2&gt;Funny interface&lt;/h2&gt;
+&lt;p&gt;In the very rare case you don’t have some day who to congrats, this fun gay inform you&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;./kengu.png&quot; alt=&quot;Space&quot;&gt;&lt;/p&gt;
+&lt;h2&gt;Easy to use&lt;/h2&gt;
+&lt;p&gt;Use the guide to see all features.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;./guide.png&quot; alt=&quot;Space&quot;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Korostettua tekstiä&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Morbi et libero id metus tempor imperdiet eget non mi. Mauris pulvinar quis enim at placerat. Vestibulum vitae dapibus lectus, ut elementum est.&lt;/p&gt;
 &lt;h3&gt;Pellentesque facilisis venenatis mi, sit amet molestie nisl ornare et&lt;/h3&gt;
 &lt;h4&gt;Sed ac orci a dolor venenatis vulputate&lt;/h4&gt;
 &lt;h5&gt;Nulla nec dui vulputate, semper orci in, sagittis dolor&lt;/h5&gt;
