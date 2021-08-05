@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[AutoCongrats App Blog]]></title><description><![CDATA[Make happy your contacts!]]></description><link>https://Ranta-cyber.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 05 Aug 2021 08:53:32 GMT</lastBuildDate><item><title><![CDATA[Welcome to the blog!]]></title><description><![CDATA[Welcome to the AutoCongrats App blog. See what the App offer to you!]]></description><link>https://Ranta-cyber.github.io/blog/welcome-to-the-blog/</link><guid isPermaLink="false">https://Ranta-cyber.github.io/blog/welcome-to-the-blog/</guid><pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Welcome to the AutoCongrats App blog. See what the App offer to you!&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[AutoCongrats App Blog]]></title><description><![CDATA[Make happy your contacts!]]></description><link>https://Ranta-cyber.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 05 Aug 2021 08:57:38 GMT</lastBuildDate><item><title><![CDATA[Welcome to the blog!]]></title><description><![CDATA[Welcome to the AutoCongrats App blog. See what the App offer to you!]]></description><link>https://Ranta-cyber.github.io/blog/welcome-to-the-blog/</link><guid isPermaLink="false">https://Ranta-cyber.github.io/blog/welcome-to-the-blog/</guid><pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Welcome to the AutoCongrats App blog. See what the App offer to you!&lt;/p&gt;
 &lt;!-- end --&gt;
 &lt;p&gt;AutoCongrats helps you to congrats your contacts!&lt;/p&gt;
 &lt;h2&gt;You don’t need to worry about if you don’t remember some friends name day or birthday.&lt;/h2&gt;
@@ -37,7 +37,30 @@
 &lt;p&gt;Set WhatsApp as your primary message channel. If your friend doesn’t have WhatsApp then message will be sent as SMS.&lt;/p&gt;
 &lt;h2&gt;Use it as you want&lt;/h2&gt;
 &lt;p&gt;Maybe you just want to see what names have name days. Click on the red text TODAY NAMEDAYS&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;./todaynames.png&quot; alt=&quot;Space&quot;&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 15px -30px !important max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.7142857142857%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAkABQDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAIEAQMFBv/EABcBAQADAAAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAdeLciqmOvu88LKuOeNahL//xAAcEAACAQUBAAAAAAAAAAAAAAAAAQIDBBASMxH/2gAIAQEAAQUCE8Ki2lbyJxcHS5Fz1PMbSNpG0j//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AV//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AV//xAAeEAABAwQDAAAAAAAAAAAAAAAAARExAhASISBBgf/aAAgBAQAGPwIizvSaxGUp31bzhJKkqf/EACAQAAEDAwUBAAAAAAAAAAAAAAEAESEQMVFBYYGhsfH/2gAIAQEAAT8hJbSMuiEx2oDwCHkoq7gVG97wgwoJtyvIiHTB9pFfWq//2gAMAwEAAgADAAAAELDCMIgP/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPxBf/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERIP/aAAgBAgEBPxDEREf/xAAhEAEAAgEDBAMAAAAAAAAAAAABABEhMUGRUWGB8XGxwf/aAAgBAQABPxBnjS2DxMqEvKFqUdCUiBAzVxCm+b+iWMVDJZEUFsogM80dir7nmAKVr5hoF5SiNT7Z7qN37T//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Space&quot;
+        title=&quot;&quot;
+        src=&quot;/blog/static/15ee85a485dc25dd27d5a623e66134eb/29d31/todaynames.jpg&quot;
+        srcset=&quot;/blog/static/15ee85a485dc25dd27d5a623e66134eb/e52aa/todaynames.jpg 175w,
+/blog/static/15ee85a485dc25dd27d5a623e66134eb/70ebb/todaynames.jpg 350w,
+/blog/static/15ee85a485dc25dd27d5a623e66134eb/29d31/todaynames.jpg 700w,
+/blog/static/15ee85a485dc25dd27d5a623e66134eb/acb04/todaynames.jpg 750w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  &lt;/p&gt;
 &lt;h2&gt;Funny interface&lt;/h2&gt;
 &lt;p&gt;In the very rare case you don’t have some day who to congrats, this fun gay inform you&lt;/p&gt;
 &lt;p&gt;
@@ -65,7 +88,29 @@
   &lt;/p&gt;
 &lt;h2&gt;Easy to use&lt;/h2&gt;
 &lt;p&gt;Use the guide to see all features.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;./guide.png&quot; alt=&quot;Space&quot;&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 15px -30px !important max-width: 359px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 178.28571428571428%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAkABQDASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAAAAMEAQIF/8QAGAEBAAMBAAAAAAAAAAAAAAAAAAECAwX/2gAMAwEAAhADEAAAAeiiTe0KYw4lBsKoz6AH/8QAGxAAAwEBAAMAAAAAAAAAAAAAAAECERADITH/2gAIAQEAAQUCu3LVVzzPKl6x/RGHrms1ms//xAAZEQACAwEAAAAAAAAAAAAAAAABEQAQEiL/2gAIAQMBAT8BzyDTpCIT/8QAFhEBAQEAAAAAAAAAAAAAAAAAASAh/9oACAECAQE/AUwr/8QAGhAAAgIDAAAAAAAAAAAAAAAAADEBAhAwYf/aAAgBAQAGPwKO5rpYxn//xAAcEAACAgMBAQAAAAAAAAAAAAAAARExIVFhcRD/2gAIAQEAAT8hQiDTuD0kPpWVXzLIWKK7GlsSEQdh2D2D/9oADAMBAAIAAwAAABBwzvAL7//EABsRAAICAwEAAAAAAAAAAAAAAAABEVEQMWHR/9oACAEDAQE/EGqi79JKY5CqP//EABkRAAIDAQAAAAAAAAAAAAAAAAERABAhYf/aAAgBAgEBPxAoIBhbL7WqnHP/xAAhEAEAAwAABQUAAAAAAAAAAAABABEhEDFRccFBkbHh8f/aAAgBAQABPxCw10UFuSqpC9Pua7RfVmF3Tj2gEjCUeedvngRgjS1ZylBVDtF1uudTXZMIF9yAFBUw8k/VlryT/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Space&quot;
+        title=&quot;&quot;
+        src=&quot;/blog/static/6e500a6bc5f6947bc3e96c4cb2dff2a7/1e323/guide.jpg&quot;
+        srcset=&quot;/blog/static/6e500a6bc5f6947bc3e96c4cb2dff2a7/e52aa/guide.jpg 175w,
+/blog/static/6e500a6bc5f6947bc3e96c4cb2dff2a7/70ebb/guide.jpg 350w,
+/blog/static/6e500a6bc5f6947bc3e96c4cb2dff2a7/1e323/guide.jpg 359w&quot;
+        sizes=&quot;(max-width: 359px) 100vw, 359px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Korostettua tekstiä&lt;/p&gt;
 &lt;/blockquote&gt;
