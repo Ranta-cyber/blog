@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[AutoCongrats App Blog]]></title><description><![CDATA[Make happy your contacts!]]></description><link>https://Ranta-cyber.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 05 Aug 2021 10:35:07 GMT</lastBuildDate><item><title><![CDATA[Welcome to the blog!]]></title><description><![CDATA[Welcome to the AutoCongrats App blog. See what the App offer to you!]]></description><link>https://Ranta-cyber.github.io/blog/welcome-to-the-blog/</link><guid isPermaLink="false">https://Ranta-cyber.github.io/blog/welcome-to-the-blog/</guid><pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Welcome to the AutoCongrats App blog. See what the App offer to you!&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[AutoCongrats App Blog]]></title><description><![CDATA[Make happy your contacts!]]></description><link>https://Ranta-cyber.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 05 Aug 2021 13:32:42 GMT</lastBuildDate><item><title><![CDATA[Welcome to the blog!]]></title><description><![CDATA[Welcome to the AutoCongrats App blog. See what the App offer to you!]]></description><link>https://Ranta-cyber.github.io/blog/welcome-to-the-blog/</link><guid isPermaLink="false">https://Ranta-cyber.github.io/blog/welcome-to-the-blog/</guid><pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Welcome to the AutoCongrats App blog. See what the App offer to you!&lt;/p&gt;
 &lt;!-- end --&gt;
-&lt;p&gt;AutoCongrats helps you to congrats your contacts!&lt;/p&gt;
-&lt;h2&gt;You don’t need to worry about if you don’t remember some friends name day or birthday.&lt;/h2&gt;
+&lt;p&gt;AutoCongrats helps you to congrats your contacts! Congratulate your friends in a care free way. &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;You don’t need to worry about if you don’t remember some friends name day or birthday.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Application checks from your contacts if any persons is having a name day or birthday. &lt;/p&gt;
-&lt;p&gt;Congratulate your friends in a care free way. &lt;/p&gt;
 &lt;p&gt;The App show to you who’s name day or birthday for day go on.&lt;/p&gt;
 &lt;h2&gt;Just click tulip flower icon if you want congrats. You decided if you want to congrats.&lt;/h2&gt;
 &lt;p&gt;
@@ -30,7 +31,7 @@
     &lt;/span&gt;
   &lt;/span&gt;
   &lt;/p&gt;
-&lt;h2&gt;Setting up preferences&lt;/h2&gt;
+&lt;h2&gt;Setting up your preferences&lt;/h2&gt;
 &lt;p&gt;
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
@@ -55,7 +56,10 @@
     &lt;/span&gt;
   &lt;/span&gt;
   &lt;/p&gt;
-&lt;p&gt;Allowing push notifications, you will receive a daily push notification as reminder on chosen time.&lt;/p&gt;
+&lt;p&gt;Allowing push notifications, you will receive a daily push notification as reminder on chosen time!.  &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;At your prefered time on the day or night to relax a little bit and check this.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Choosing language affects how application can find persons having a name day. Also applications language is changed based on that.&lt;/p&gt;
 &lt;p&gt;Set default content of the congratulate message, however you can modify message before actually sending it. &lt;/p&gt;
 &lt;p&gt;Use XXXX characters to place where you want person’s name.&lt;/p&gt;
@@ -137,11 +141,4 @@
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
-  &lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Korostettua tekstiä&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3&gt;Pellentesque facilisis venenatis mi, sit amet molestie nisl ornare et&lt;/h3&gt;
-&lt;h4&gt;Sed ac orci a dolor venenatis vulputate&lt;/h4&gt;
-&lt;h5&gt;Nulla nec dui vulputate, semper orci in, sagittis dolor&lt;/h5&gt;
-&lt;h6&gt;ras aliquet ipsum ut enim pellentesque, id varius quam placerat&lt;/h6&gt;</content:encoded></item></channel></rss>
+  &lt;/p&gt;</content:encoded></item></channel></rss>
