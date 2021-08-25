@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[AutoCongrats App Blog]]></title><description><![CDATA[Make happy your contacts!]]></description><link>https://Ranta-cyber.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 25 Aug 2021 09:46:30 GMT</lastBuildDate><item><title><![CDATA[Welcome to the blog!]]></title><description><![CDATA[Welcome to the AutoCongrats App blog. See what the App can offer to you!]]></description><link>https://Ranta-cyber.github.io/blog/</link><guid isPermaLink="false">https://Ranta-cyber.github.io/blog/</guid><pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Welcome to the AutoCongrats App blog. See what the App can offer to you!&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[AutoCongrats App Blog]]></title><description><![CDATA[Make happy your contacts!]]></description><link>https://Ranta-cyber.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 25 Aug 2021 10:26:55 GMT</lastBuildDate><item><title><![CDATA[Welcome to the blog!]]></title><description><![CDATA[Welcome to the AutoCongrats App blog. See what the App can offer to you!]]></description><link>https://Ranta-cyber.github.io/blog/</link><guid isPermaLink="false">https://Ranta-cyber.github.io/blog/</guid><pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Welcome to the AutoCongrats App blog. See what the App can offer to you!&lt;/p&gt;
 &lt;p&gt;
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
@@ -24,7 +24,7 @@
   &lt;/span&gt;
   &lt;/p&gt;
 &lt;!-- end --&gt;
-&lt;p&gt;koeAutoCongrats helps you to congratulate your friends in a care free way. &lt;/p&gt;
+&lt;p&gt;AutoCongrats helps you to congratulate your friends in a care free way. &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;You don’t need to worry about if you don’t remember some friends name day or birthday.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -65,8 +65,31 @@
 &lt;p&gt;Use XXXX characters to place where you want person’s name.&lt;/p&gt;
 &lt;p&gt;Set WhatsApp as your primary message channel. If your friend doesn’t have WhatsApp then message will be sent as SMS.&lt;/p&gt;
 &lt;h2&gt;Use it as you want&lt;/h2&gt;
-&lt;p&gt;Maybe you just want to see what names have name days. Click on the red text TODAY NAMEDAYS&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;./today.jpg&quot; alt=&quot;Space&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Maybe you just want to see what names have name days. Click on the red text TODAY NAME DAYS&lt;/p&gt;
+&lt;p&gt;
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 15px -30px !important max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 172%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAiABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAMEBQEC/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAECBP/aAAwDAQACEAMQAAABpwaXcSFIi56y1WUCKA6oB//EAB4QAAIBBAMBAAAAAAAAAAAAAAECAAMRIjISExQg/9oACAEBAAEFAnYgmo0U3XpUnzKYV4RdZV2xvjLj4//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BX//EABgRAAIDAAAAAAAAAAAAAAAAABARAAES/9oACAECAQE/AXQzEf/EABwQAAICAgMAAAAAAAAAAAAAAAABETEQEiAhQf/aAAgBAQAGPwKMSbSy2ai7Lx4WWuH/xAAgEAEAAgIBBAMAAAAAAAAAAAABABEhQZEQMVFhgaHx/9oACAEBAAE/IVIYD1UqFuUDtS9RLSOb1DYFQNxmrjzLP3MvjG3dygXyOYCV9k11/9oADAMBAAIAAwAAABBPxg6AD//EABcRAAMBAAAAAAAAAAAAAAAAAAEQESD/2gAIAQMBAT8Qqgx//8QAGhEAAgIDAAAAAAAAAAAAAAAAAAERMRAhQf/aAAgBAgEBPxBdC6JklrP/xAAcEAEAAwEBAAMAAAAAAAAAAAABABEhMUFhcZH/2gAIAQEAAT8Qal5QE27XQ0NYnaC4UthQxKuLV9MuxIvqaMKuUlPn8Rgo2V2XS1J2vZbY/rDwD4pHiMez/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Space&quot;
+        title=&quot;&quot;
+        src=&quot;/blog/static/e372de49911f18e5d163c35262fca88d/29d31/today.jpg&quot;
+        srcset=&quot;/blog/static/e372de49911f18e5d163c35262fca88d/e52aa/today.jpg 175w,
+/blog/static/e372de49911f18e5d163c35262fca88d/70ebb/today.jpg 350w,
+/blog/static/e372de49911f18e5d163c35262fca88d/29d31/today.jpg 700w,
+/blog/static/e372de49911f18e5d163c35262fca88d/acb04/today.jpg 750w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  &lt;/p&gt;
 &lt;h2&gt;Funny interface&lt;/h2&gt;
 &lt;p&gt;In the very rare case you don’t have some day who to congrats, this fun gay inform you&lt;/p&gt;
 &lt;p&gt;
