@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[AutoCongrats App Blog]]></title><description><![CDATA[Make happy your contacts!]]></description><link>https://Ranta-cyber.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 15 Sep 2021 09:27:31 GMT</lastBuildDate><item><title><![CDATA[Welcome to the blog of AutoCongrats App!]]></title><description><![CDATA[Welcome to the AutoCongrats App blog. See what the App can offer to you!]]></description><link>https://Ranta-cyber.github.io/blog/</link><guid isPermaLink="false">https://Ranta-cyber.github.io/blog/</guid><pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Welcome to the AutoCongrats App blog. See what the App can offer to you!&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[AutoCongrats App Blog]]></title><description><![CDATA[Make happy your contacts!]]></description><link>https://Ranta-cyber.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 15 Sep 2021 09:30:21 GMT</lastBuildDate><item><title><![CDATA[Welcome to the blog of AutoCongrats App!]]></title><description><![CDATA[Welcome to the AutoCongrats App blog. See what the App can offer to you!]]></description><link>https://Ranta-cyber.github.io/blog/</link><guid isPermaLink="false">https://Ranta-cyber.github.io/blog/</guid><pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Welcome to the AutoCongrats App blog. See what the App can offer to you!&lt;/p&gt;
 &lt;p&gt;
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
@@ -84,7 +84,30 @@
   &lt;/span&gt;
   &lt;/p&gt;
 &lt;h2&gt;Setting up your preferences&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;./asetukset2.png&quot; alt=&quot;Space&quot;&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 15px -30px !important max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.7142857142857%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Space&quot;
+        title=&quot;&quot;
+        src=&quot;/blog/static/195afc42eaa9c38fcccf01449ace589e/8c557/asetukset2.png&quot;
+        srcset=&quot;/blog/static/195afc42eaa9c38fcccf01449ace589e/4edbd/asetukset2.png 175w,
+/blog/static/195afc42eaa9c38fcccf01449ace589e/13ae7/asetukset2.png 350w,
+/blog/static/195afc42eaa9c38fcccf01449ace589e/8c557/asetukset2.png 700w,
+/blog/static/195afc42eaa9c38fcccf01449ace589e/1d69c/asetukset2.png 750w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  &lt;/p&gt;
 &lt;p&gt;Allowing push notifications, you will receive a daily push notification as a reminder on chosen time!.  &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;At your preferred time on the day, when you can relax a little bit and take a moment to check this.&lt;/p&gt;
@@ -170,5 +193,4 @@
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
-  &lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;./KeyNotePreview_1920x1080.MPEG-4&quot; alt=&quot;Space&quot;&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
+  &lt;/p&gt;</content:encoded></item></channel></rss>
