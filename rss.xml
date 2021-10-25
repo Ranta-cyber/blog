@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[AutoCongrats App Blog]]></title><description><![CDATA[Make your contacts happy!]]></description><link>https://Ranta-cyber.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 14 Oct 2021 06:05:59 GMT</lastBuildDate><item><title><![CDATA[Welcome to the blog of AutoCongrats App!]]></title><description><![CDATA[Welcome to the AutoCongrats App blog. See what the App can offer to you!]]></description><link>https://Ranta-cyber.github.io/blog/</link><guid isPermaLink="false">https://Ranta-cyber.github.io/blog/</guid><pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Welcome to the AutoCongrats App blog. See what the App can offer to you!&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[AutoCongrats App Blog]]></title><description><![CDATA[Make your contacts happy!]]></description><link>https://Ranta-cyber.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 25 Oct 2021 09:44:32 GMT</lastBuildDate><item><title><![CDATA[Welcome to the blog of AutoCongrats App!]]></title><description><![CDATA[Welcome to the AutoCongrats App blog. See what the App can offer to you!]]></description><link>https://Ranta-cyber.github.io/blog/</link><guid isPermaLink="false">https://Ranta-cyber.github.io/blog/</guid><pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Welcome to the AutoCongrats App blog. See what the App can offer to you!&lt;/p&gt;
 &lt;p&gt;
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
@@ -6,18 +6,19 @@
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 170.85714285714283%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAiABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAQBAwX/xAAXAQEBAQEAAAAAAAAAAAAAAAACAAMF/9oADAMBAAIQAxAAAAGiL0+Zq2sjzmqzZUObE+Bh0yFf/8QAHBAAAwADAAMAAAAAAAAAAAAAAQIDABESBBBB/9oACAEBAAEFAr0YO16jJN1No7u3idrNeEo5Ah1PAdg8ltT2GUD56//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BX//EABgRAQEAAwAAAAAAAAAAAAAAAAEAEBEh/9oACAECAQE/AQmDlpz/AP/EAB4QAAIBBQADAAAAAAAAAAAAAAABEQISITGRIDKh/9oACAEBAAY/AmkzcCbL5fCLozLwKkqST1sc5JNrpmv6ey74f//EAB0QAAICAgMBAAAAAAAAAAAAAAABETEhQRBhcVH/2gAIAQEAAT8hb21CRvDoZdmdOk4oRH1DYytMdE4VRBoCtPckVBr0bMjasqgFMQnTn//aAAwDAQACAAMAAAAQE80OiC//xAAZEQEAAgMAAAAAAAAAAAAAAAABADEQESH/2gAIAQMBAT8QHkbhq2N5/8QAGREAAwEBAQAAAAAAAAAAAAAAAAERMRAh/9oACAECAQE/EExVHhsYpmjtguf/xAAdEAEAAwADAAMAAAAAAAAAAAABABExIUFRcZGh/9oACAEBAAE/EBf2wY7CG3wkRBt7viZdKv3ERUURwJRtxEbLMNtzHqMo2daPuQA24UUKbtwpe1zZt7ywAAPWiNnxVOfKlwpEoKtQolRlX9mPoWPXxHWf/9k=&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 177.7142857142857%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAIAAAAGkY33AAAACXBIWXMAAAsTAAALEwEAmpwYAAAFJ0lEQVRIx41V33MTVRTOH+KTf4AvPDgiA6IzOJWCgOCAIlUZ9cG/QB6cEYcZnhQcRkHbKpQCBW0LbELTtE0oTdrapElboC00ySa72fzaze5ms7vZ7N57PJu0NCCd4c7XO9+ePeeeved8OfXcf3JxYvnXWP7yLPdnhO3mwcsCw4I3C94Z4fIU15sGJtO04J6ht1P20FLlmm/+3LXAaU/KHkyTwbQzyJJBFoaz4hV+7Tc+eZHL9Wb5Hi51iV+7yAm9fOoS7ujAkiGWDmEIS4Y9GbjN0Xsc8fHg5yGQ04by2av51BWhdFMQrhfW/sqzfUJhIJ/pQwsHfnTm6QgiQ+94spSxqAIAtqbUFcmhjgOO7aJhg21vcrTbDphN1B1q5siEJ0sYALI6NckP95qBG7WFWTwICABtgrRxCpuLgkBCngwdAVC6Tx25M9ADNKlHztpy1n1L3SC6GUfbHvGPCiSIwX5wioGfPngYCwDk1Pvf2OLT5tkEtl7UzRz0sM5d5IO9P5/c83rX7teunz/lfjWh7nvXaX09H+kuNzhLvHh7NMUTj+aiiw2bbJGKvmDZCIa6Vbfi8flUai0+H4tGozMzM4lEYmpqCkkoFNI07VlCN008nk6nyzDlBmObapp+ta8/FLxfLomSVCkVyxVJFstSsVAScnm9Zlh6jWCzmisRX2DTmTKE1/tsE0OU87qpaEalBUkpVHUJiVoTkSiKYNlV/EYbDKwJhUaOjGO170pkSaErBiTrwFbhqQIrKqwilCbU9f0J+sh0WaYrFbKMQKlhZp9D6/gxoqQuLi+apt7SwDMxvEg2CxZy79zAalvVzEqs58aNS33XDcNoiaTZri2w0SofBWPy1pXxgVtC/mls3l9Viy/tzctaRX0A5oUzv0z4gorSL0oXKKmtH/4yhbQpDLXttsrKF7W5xNxauseoL8OrrVZmr03MZsGwxZVCQZJlWWouVVULhUI2m33hFhvybBaMgqVVtcGhwQcPJqenw+PjY9PT08FgcGlpKbGQiMWibUGueIPBiYePHooQaQXbddMKTUwuP1rVa/WqUjN1q6rqqqwZel2paBVJVWStPDGJOsbgYr6syNUiTLoiqdJUjfAa4Uyal61UpZ6SG2mlkUYuW+lKPam4j6ysr9Yoh7CgYILAEb8rzyrN2KA4UKnZvAnF/6G0QcoGLSB0F3meBjwZB6sNXDK1OjcGUKHgvHK1Qx4eRkxDOn7wQFfHzhTzY4Ptd/vsynFdYe3DqN3itqoAAY5PbXtj27mv3y/dPGr6j5Fq6lXHEIfaBvuPH07PfL89fH73Yj+OIQfHECVk68i2PuOvlFqO+HgqGR2zTHPLMfS8TjcURk1M9fhJkuWE2dnZcDgciURQIVtNMkEQcNoU3D4TBseCqla7u3/3+0fYDItIJtc4Lus4NqLRsPAC9XLZVtXWEWNjY0tLixIqDFvl0IbTIHmhVFX0mmZqqmEaDdzFkqzItVJBlLV6Kb6gpzPNfya0NRtyTsiTgzsleCDBTBWiFZgtQwRRgjDuIkxvICLBv6L7NtxyQOSA8STE4bj0T7R0azo3MC/+vSXK6yS2QTDQ09nFdBxnjn07+t3ZyN4TTGeXdx0nmH2fexGdbUZ0OHjy3odf+JqejGfHfu+bHXc//ip45twC8rf3eXcg9nvf2st0fDK677MAkmf27Z3MoS/HO46Ntoyedw55dx5gOj717+8a3XP0HnK07EIcZN497HvviA/JrpbFNXrfPezd/ZFL8PE/iv9bAc3WQ68AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Space&quot;
         title=&quot;&quot;
-        src=&quot;/blog/static/1fc7b305a830a31d28d1029780175fcd/29d31/onnea.jpg&quot;
-        srcset=&quot;/blog/static/1fc7b305a830a31d28d1029780175fcd/e52aa/onnea.jpg 175w,
-/blog/static/1fc7b305a830a31d28d1029780175fcd/70ebb/onnea.jpg 350w,
-/blog/static/1fc7b305a830a31d28d1029780175fcd/29d31/onnea.jpg 700w,
-/blog/static/1fc7b305a830a31d28d1029780175fcd/acb04/onnea.jpg 750w&quot;
+        src=&quot;/blog/static/35a4a92ac03e748d4e6050066a4a2c74/8c557/onnea.png&quot;
+        srcset=&quot;/blog/static/35a4a92ac03e748d4e6050066a4a2c74/4edbd/onnea.png 175w,
+/blog/static/35a4a92ac03e748d4e6050066a4a2c74/13ae7/onnea.png 350w,
+/blog/static/35a4a92ac03e748d4e6050066a4a2c74/8c557/onnea.png 700w,
+/blog/static/35a4a92ac03e748d4e6050066a4a2c74/e996b/onnea.png 1050w,
+/blog/static/35a4a92ac03e748d4e6050066a4a2c74/89048/onnea.png 1242w&quot;
         sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
       /&gt;
     &lt;/span&gt;
@@ -30,7 +31,7 @@
 &lt;/blockquote&gt;
 &lt;p&gt;Application checks from your contacts if any of your friends is having a name day or birthday. &lt;/p&gt;
 &lt;p&gt;The App shows to you who’s name day or birthday is today.&lt;/p&gt;
-&lt;h4&gt;Just click tulip flower icon if you want to send congrats!&lt;/h4&gt;
+&lt;h4&gt;Just click some of the messages icons if you want to send congrats!&lt;/h4&gt;
 &lt;p&gt;Sending via SMS&lt;/p&gt;
 &lt;p&gt;
   &lt;span
@@ -84,30 +85,7 @@
   &lt;/span&gt;
   &lt;/p&gt;
 &lt;h2&gt;Setting up your preferences&lt;/h2&gt;
-&lt;p&gt;
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 15px -30px !important max-width: 700px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 177.7142857142857%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;Space&quot;
-        title=&quot;&quot;
-        src=&quot;/blog/static/195afc42eaa9c38fcccf01449ace589e/8c557/asetukset2.png&quot;
-        srcset=&quot;/blog/static/195afc42eaa9c38fcccf01449ace589e/4edbd/asetukset2.png 175w,
-/blog/static/195afc42eaa9c38fcccf01449ace589e/13ae7/asetukset2.png 350w,
-/blog/static/195afc42eaa9c38fcccf01449ace589e/8c557/asetukset2.png 700w,
-/blog/static/195afc42eaa9c38fcccf01449ace589e/1d69c/asetukset2.png 750w&quot;
-        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;./asetukset2.PNG&quot; alt=&quot;Space&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Allowing push notifications, you will receive a daily push notification as a reminder on chosen time!.  &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;At your preferred time on the day, when you can relax a little bit and take a moment to check this.&lt;/p&gt;
@@ -115,7 +93,6 @@
 &lt;p&gt;Choosing language affects how application can find persons having a name day. Also applications language is changed based on that.&lt;/p&gt;
 &lt;p&gt;Set default content of the congratulate message, however you can modify message before actually sending it. &lt;/p&gt;
 &lt;p&gt;Set XXXX characters to place where you want person’s name.&lt;/p&gt;
-&lt;p&gt;Set WhatsApp as your primary message channel. If your friend doesn’t have WhatsApp then message will be sent as SMS.&lt;/p&gt;
 &lt;h2&gt;Use it as you want&lt;/h2&gt;
 &lt;p&gt;Maybe you just want to see the names that are having name day today. Click on the red text TODAYS NAME DAYS&lt;/p&gt;
 &lt;p&gt;
@@ -125,18 +102,19 @@
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 172%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAiABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAMEBQEC/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAECBP/aAAwDAQACEAMQAAABpwaXcSFIi56y1WUCKA6oB//EAB4QAAIBBAMBAAAAAAAAAAAAAAECAAMRIjISExQg/9oACAEBAAEFAnYgmo0U3XpUnzKYV4RdZV2xvjLj4//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BX//EABgRAAIDAAAAAAAAAAAAAAAAABARAAES/9oACAECAQE/AXQzEf/EABwQAAICAgMAAAAAAAAAAAAAAAABETEQEiAhQf/aAAgBAQAGPwKMSbSy2ai7Lx4WWuH/xAAgEAEAAgIBBAMAAAAAAAAAAAABABEhQZEQMVFhgaHx/9oACAEBAAE/IVIYD1UqFuUDtS9RLSOb1DYFQNxmrjzLP3MvjG3dygXyOYCV9k11/9oADAMBAAIAAwAAABBPxg6AD//EABcRAAMBAAAAAAAAAAAAAAAAAAEQESD/2gAIAQMBAT8Qqgx//8QAGhEAAgIDAAAAAAAAAAAAAAAAAAERMRAhQf/aAAgBAgEBPxBdC6JklrP/xAAcEAEAAwEBAAMAAAAAAAAAAAABABEhMUFhcZH/2gAIAQEAAT8Qal5QE27XQ0NYnaC4UthQxKuLV9MuxIvqaMKuUlPn8Rgo2V2XS1J2vZbY/rDwD4pHiMez/9k=&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 177.7142857142857%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Space&quot;
         title=&quot;&quot;
-        src=&quot;/blog/static/e372de49911f18e5d163c35262fca88d/29d31/today.jpg&quot;
-        srcset=&quot;/blog/static/e372de49911f18e5d163c35262fca88d/e52aa/today.jpg 175w,
-/blog/static/e372de49911f18e5d163c35262fca88d/70ebb/today.jpg 350w,
-/blog/static/e372de49911f18e5d163c35262fca88d/29d31/today.jpg 700w,
-/blog/static/e372de49911f18e5d163c35262fca88d/acb04/today.jpg 750w&quot;
+        src=&quot;/blog/static/73c3cf4e6d65e1829871b2bde0078893/8c557/today.png&quot;
+        srcset=&quot;/blog/static/73c3cf4e6d65e1829871b2bde0078893/4edbd/today.png 175w,
+/blog/static/73c3cf4e6d65e1829871b2bde0078893/13ae7/today.png 350w,
+/blog/static/73c3cf4e6d65e1829871b2bde0078893/8c557/today.png 700w,
+/blog/static/73c3cf4e6d65e1829871b2bde0078893/e996b/today.png 1050w,
+/blog/static/73c3cf4e6d65e1829871b2bde0078893/89048/today.png 1242w&quot;
         sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
       /&gt;
     &lt;/span&gt;
